@@ -1,5 +1,5 @@
 # Introduction
-This is the NLP part of a HR AI chatbot. 
+This is the backend NLP part of a HR AI chatbot. 
 
 It utilizes the open-source **DeepSeek model (deepseek-r1:8b)** and employs a **Retrieval-Augmented Generation (RAG)** approach, with **MongoDB** serving as the knowledge base.
 # How to run:
